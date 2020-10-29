@@ -11,6 +11,10 @@
 <h1>test</h1>
 <h1>ttttttt</h1>
     <h1>testgit</h1>
+<<<<<<< HEAD
 <h1>eclpse test2</h1>
+=======
+    <h1>github test2</h1>
+>>>>>>> refs/remotes/choose_remote_name/master
 </body>
 </html>
